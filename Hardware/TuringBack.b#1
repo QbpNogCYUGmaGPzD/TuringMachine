@@ -149,7 +149,7 @@ BEAD</text>
 <text x="36.83" y="1.27" size="1.778" layer="22" rot="MR90">&gt;&gt;RED&gt;&gt;</text>
 <text x="63.5" y="0.635" size="1.778" layer="22" rot="MR90">&gt;&gt;RED&gt;&gt;</text>
 <text x="84.455" y="13.97" size="2.286" layer="22" rot="MR0">EXPANDER OUTPUTS ONLY</text>
-<text x="92.71" y="47.625" size="1.016" layer="26" ratio="10" rot="MR270">Turing Machine - by Tom Whitwell</text>
+<text x="64.77" y="37.465" size="1.016" layer="22" rot="MR270">Turing Machine - by Tom Whitwell</text>
 </plain>
 <libraries>
 <library name="40xx" urn="urn:adsk.eagle:library:80">
